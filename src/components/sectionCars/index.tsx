@@ -39,7 +39,7 @@ export const SectionCars = () => {
           mobile: {
             breakpoint: {
               max: 768,
-              min: 390,
+              min: 320,
             },
             slidesToSlide: 1,
             items: 1,
